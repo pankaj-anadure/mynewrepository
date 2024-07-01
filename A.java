@@ -2,6 +2,9 @@ public class A
 {
 	public static void main(String args[])
 	{
-		System.out.println("Have a nice Day");
+		for(int i=1; i<=10; i++)
+		{
+			System.out.println("Be Happy :) ");
+		}
 	}
 }
